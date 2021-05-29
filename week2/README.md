@@ -5,7 +5,7 @@
 - advance: 5/31 10:00 ~ 13:00
 
 ## 2. what we tried
-- basic
+### basic   
 1. [2263/트리의 순회](https://www.acmicpc.net/problem/2263)
 2. [2533/사회망 서비스](https://www.acmicpc.net/problem/2533)
 3. [12909/그래프 만들기](https://www.acmicpc.net/problem/12909)
