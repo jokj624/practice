@@ -32,7 +32,7 @@
 <summary>채정아</summary>
 <div markdown="1">       
 
-* [2263] 트리의 순회 
-	- post order 를 루트 노드 찾기에만 사용하고 모든걸 inorder 로 해결하려 해서 틀렸음
+1. [2263] 트리의 순회 
+	* post order 를 루트 노드 찾기에만 사용하고 모든걸 inorder 로 해결하려 해서 틀렸음
 </div>
 </details>
