@@ -2,7 +2,7 @@
 
 ## 1. date
 - basic : 5/29 21:30 ~ 25:30
-- advance: 5/31 10:00 ~ 13:00
+- advance: 5/31 10:30 ~ 13:30
 
 ## 2. what we tried
 ### basic   
