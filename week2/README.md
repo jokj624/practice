@@ -2,7 +2,8 @@
 
 ## 1. date
 - basic : 5/29 21:30 ~ 25:30
-- advance: 5/31 10:30 ~ 13:30
+- contest practice: 5/31 10:30 ~ 13:30
+- advance: 6/3 20:00 ~ 22:40
 
 ## 2. what we tried
 ### basic   
